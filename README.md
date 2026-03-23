@@ -1,23 +1,16 @@
-# Manual Testing Project
+# 🧪 Manual Testing Project
 
-## Overview
-This project demonstrates basic manual testing skills including:
-- Writing Test Cases
-- Reporting Bugs
-- Testing Login functionality
+## 📌 Overview
+This project demonstrates manual testing skills through test cases and bug reports.
 
-## Scope
-- Login Feature
-- Input Validation
-- UI/UX Testing
+## 📂 Project Structure
+- 📄 TestCase_Advanced.xlsx – Contains detailed test cases
+- 🐞 BugReport_Advanced.xlsx – Contains reported bugs
 
-## Test Coverage
-- 10+ Test Cases
-- 7 Bug Reports
+## 🛠 Skills
+- Test Case Design
+- Bug Reporting
+- Manual Testing
 
-## Tools Used
-- Excel
-- Manual Testing Techniques
-
-## Author
-[Your Name]
+## 👩‍💻 Author
+Thu Thuy
